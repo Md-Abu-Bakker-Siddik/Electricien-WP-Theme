@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "flaticon-set-electric";
+  src: url("fonts/flaticon-set-electric.eot?o66uyv");
+  src: url("fonts/flaticon-set-electric.eot?o66uyv#iefix") format("embedded-opentype"), url("fonts/flaticon-set-electric.ttf?o66uyv") format("truetype"), url("fonts/flaticon-set-electric.woff?o66uyv") format("woff"), url("fonts/flaticon-set-electric.svg?o66uyv#Flaticon-Set-Electric") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="flaticon-electric-"],
+[class*=" flaticon-electric-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "flaticon-set-electric" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-electric-001-light-bulb:before {
+  content: "\f100";
+}
+.flaticon-electric-002-wires:before {
+  content: "\f101";
+}
+.flaticon-electric-003-plug:before {
+  content: "\f102";
+}
+.flaticon-electric-004-solar-panel:before {
+  content: "\f103";
+}
+.flaticon-electric-005-accumulator:before {
+  content: "\f104";
+}
+.flaticon-electric-006-danger:before {
+  content: "\f105";
+}
+.flaticon-electric-007-rj45:before {
+  content: "\f106";
+}
+.flaticon-electric-008-flashlight:before {
+  content: "\f107";
+}
+.flaticon-electric-009-measure-tape:before {
+  content: "\f108";
+}
+.flaticon-electric-010-resistor:before {
+  content: "\f109";
+}
+.flaticon-electric-011-hand-drill:before {
+  content: "\f10a";
+}
+.flaticon-electric-012-insulating-tape:before {
+  content: "\f10b";
+}
+.flaticon-electric-013-tool-box:before {
+  content: "\f10c";
+}
+.flaticon-electric-014-soldering-iron:before {
+  content: "\f10d";
+}
+.flaticon-electric-015-power-strip:before {
+  content: "\f10e";
+}
+.flaticon-electric-016-analyzer:before {
+  content: "\f10f";
+}
+.flaticon-electric-017-wrench:before {
+  content: "\f110";
+}
+.flaticon-electric-018-tester:before {
+  content: "\f111";
+}
+.flaticon-electric-019-wires:before {
+  content: "\f112";
+}
+.flaticon-electric-020-fuse-box:before {
+  content: "\f113";
+}
+.flaticon-electric-021-fuse:before {
+  content: "\f114";
+}
+.flaticon-electric-022-fuse:before {
+  content: "\f115";
+}
+.flaticon-electric-023-telephone-socket:before {
+  content: "\f116";
+}
+.flaticon-electric-024-socket:before {
+  content: "\f117";
+}
+.flaticon-electric-025-diode:before {
+  content: "\f118";
+}
+.flaticon-electric-026-pliers:before {
+  content: "\f119";
+}
+.flaticon-electric-027-capacitor:before {
+  content: "\f11a";
+}
+.flaticon-electric-028-pcb-board:before {
+  content: "\f11b";
+}
+.flaticon-electric-029-electric-meter:before {
+  content: "\f11c";
+}
+.flaticon-electric-030-screwdriver:before {
+  content: "\f11d";
+}
+.flaticon-electric-031-led-lamp:before {
+  content: "\f11e";
+}
+.flaticon-electric-032-glove:before {
+  content: "\f11f";
+}
+.flaticon-electric-033-cutter:before {
+  content: "\f120";
+}
+.flaticon-electric-034-hammer:before {
+  content: "\f121";
+}
+.flaticon-electric-035-voltmeter:before {
+  content: "\f122";
+}
+.flaticon-electric-036-riveter:before {
+  content: "\f123";
+}
+.flaticon-electric-037-capacitor:before {
+  content: "\f124";
+}
+.flaticon-electric-038-motor:before {
+  content: "\f125";
+}
+.flaticon-electric-039-fuse:before {
+  content: "\f126";
+}
+.flaticon-electric-040-switch:before {
+  content: "\f127";
+}
+.flaticon-electric-041-switch:before {
+  content: "\f128";
+}
+.flaticon-electric-042-boot:before {
+  content: "\f129";
+}
+.flaticon-electric-043-circuit:before {
+  content: "\f12a";
+}
+.flaticon-electric-044-plug:before {
+  content: "\f12b";
+}
+.flaticon-electric-045-switch:before {
+  content: "\f12c";
+}
+.flaticon-electric-046-extension-cord:before {
+  content: "\f12d";
+}
+.flaticon-electric-047-extension-cord:before {
+  content: "\f12e";
+}
+.flaticon-electric-048-crimping:before {
+  content: "\f12f";
+}
+.flaticon-electric-049-wiring:before {
+  content: "\f130";
+}
+.flaticon-electric-050-protect:before {
+  content: "\f131";
+}

@@ -1,0 +1,37 @@
+@import "../../bootstrap-loader";
+@import "service-common";
+.service-block-style10 {
+  .inner-box {
+    background-color: #fff;
+    box-shadow: 0px 4px 30px 0px #0000000d;
+    padding: 30px;
+    @include transition(all 300ms ease);
+    &:hover {
+      box-shadow: none;
+      .icon {
+        background-color: var(--theme-color1);
+        color: var(--text-color-bg-theme-color1);
+        transform: rotate(-360deg);
+      }
+    }
+    .icon {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100px;
+      width: 100px;
+      font-size: 50px;
+      color: var(--theme-color1);
+      font-weight: 900;
+      line-height: 64px;
+      background-color: #f4f4f4;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      @include transition(all 300ms ease);
+    }
+    .service-title {
+      margin-bottom: 15px;
+    }
+  }
+}
